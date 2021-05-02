@@ -1,21 +1,20 @@
-# vueshopping
+# 小確幸 Happiness
 
-> A Vue.js project
 
-## Build Setup
+###[Damo](https://cai-yi-ru.github.io/happiness/#/)
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
++ ####前台功能
+	* 商品展示
+	* 單一產品展示
+	* 購物車
+	* 商品下單
+	* 優惠券使用
+	* 訂單列表
+	* 訂單結帳
++ ####後台功能
+	* 商品管理
+	* 客戶訂單查詢
+	* 修改
+	* 優惠券新增
+	* 修改
