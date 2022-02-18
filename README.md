@@ -10,7 +10,7 @@ DEMO：[小確幸 Happiness](https://cai-yi-ru.github.io/happiness/#/)
 
 ### ****使用技術****
 
-- Vue 3
+- Vue 2
 - Vue Cli
 - Vue Component
 - vue-router
